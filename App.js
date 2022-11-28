@@ -82,11 +82,6 @@ export default function App() {
             <Text style={styles.itemText} >Estado : {cepUser.uf}</Text>
         </View>
       }
-      
-
-      
-      
-
     </SafeAreaView>
   );
 }
